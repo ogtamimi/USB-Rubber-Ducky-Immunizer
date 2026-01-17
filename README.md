@@ -16,7 +16,7 @@
 ## 🚀 Quick Start
 
 ### Download Installer 
-- Download `OGTTrustInstaller.exe`
+- Download `OGTTrust_Installer` from [Release folder](./Release).
 - Run the installer and follow the prompts
 - Choose installation folder and create Start Menu shortcut
 - Click Install
