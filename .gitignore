@@ -1,0 +1,27 @@
+# Ignore Visual Studio files
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+
+# Ignore build outputs
+bin/
+obj/
+Debug/
+Release/
+publish/
+
+# Ignore temporary files
+*.tmp
+*.log
+*.bak
+*.cache
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore local app data (logs, settings)
+**/AppData/
+*.flag
